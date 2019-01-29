@@ -1,0 +1,10 @@
+ET WEB_SERVER Possible SQL Injection Attempt SELECT FROM
+ET WEB_SERVER MYSQL SELECT CONCAT SQL Injection Attempt
+ET WEB_SERVER Possible MySQL SQLi Attempt Information Schema Access
+ET WEB_SERVER Possible SQL Injection Attempt UNION SELECT
+ET SCAN Sqlmap SQL Injection Scan
+sqlmap detected
+[PT Open] BadTunnel ISATAP spoofing attempt via NBNS
+CYBERDETECT HTTP unable to match response to request
+ET WEB_SERVER ATTACKER SQLi - SELECT and Schema Columns
+ET WEB_SERVER Script tag in URI Possible Cross Site Scripting Attempt

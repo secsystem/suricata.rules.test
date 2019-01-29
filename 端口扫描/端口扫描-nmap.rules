@@ -1,0 +1,14 @@
+ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine)
+ET SCAN Possible Nmap User-Agent Observed
+ET SCAN Potential SSH Scan OUTBOUND
+ET POLICY Suspicious inbound to MSSQL port 1433
+ET POLICY Suspicious inbound to Oracle SQL port 1521
+ET POLICY Suspicious inbound to PostgreSQL port 5432
+ET POLICY Suspicious inbound to mySQL port 3306
+ET SCAN NMAP OS Detection Probe
+ET SCAN Potential SSH Scan
+ET SCAN Potential VNC Scan 5800-5820
+ET SCAN Potential VNC Scan 5900-5920
+GPL SHELLCODE x86 inc ebx NOOP
+[PT Open] BadTunnel ISATAP spoofing attempt via NBNS
+ssh password crack
