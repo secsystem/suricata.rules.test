@@ -1,0 +1,5 @@
+#攻击名称：xss
+#攻击方式：<script>alert(1)</script>
+#攻击类别：Classification: Web Application Attack
+
+ET WEB_SERVER Script tag in URI Possible Cross Site Scripting Attempt

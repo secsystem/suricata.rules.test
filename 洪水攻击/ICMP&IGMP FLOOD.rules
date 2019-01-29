@@ -1,0 +1,30 @@
+# ICMP&IGMP FLOOD
+
+ET DROP Spamhaus DROP Listed Traffic Inbound group 8	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 14	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 12	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 9	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 11	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 13	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 23	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 33	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 6	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 15	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 1	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 17	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 32	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 28	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 34	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 24	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 31	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 16	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 30	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 2	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 21	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 26	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 27	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 25	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 10	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 3	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 5	
+ET DROP Spamhaus DROP Listed Traffic Inbound group 4
