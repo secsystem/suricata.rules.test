@@ -1,2 +1,1 @@
-ET SCAN Potential SSH Scan OUTBOUND
-ssh password crack
+alert tcp any any -> any any (msg:"ssh password crack";flow:to_client,established,no_stream; content:"SSH-";offset:0;depth:4; classtype:password_crack; threshold: type both, count 4, seconds 2, track by_dst; sid:2017070401;rev:1;)
