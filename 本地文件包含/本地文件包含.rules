@@ -1,1 +1,1 @@
- ET ATTACK_RESPONSE Possible /etc/passwd via HTTP (linux style) 
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"ET ATTACK_RESPONSE Possible /etc/passwd via HTTP (linux style)"; flow:established,from_server; file_data; content:"root|3a|x|3a|0|3a|0|3a|root|3a|/root|3a|/"; nocase; reference:url,doc.emergingthreats.net/bin/view/Main/2002034; classtype:successful-recon-limited; sid:2002034; rev:12; metadata:created_at 2010_07_30, updated_at 2010_07_30;)
