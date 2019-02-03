@@ -1,15 +1,36 @@
-# suricata.rules.test
 
-suricata规则整理
+# suricata规则测试
+
+## 1. 测试环境
+
+ubuntu16.04+[suricata](https://github.com/OISF/suricata)+[rules](https://rules.emergingthreats.net/open/suricata-4.0/rules/)
+
+suricata安装教程 ➡️  - https://redmine.openinfosecfoundation.org/projects/suricata/wiki/Ubuntu_Installation
+
+---
+
+## 2. 测试步骤
+
+### 2.1 测试指定流量+规则
+```shell 
+[root@localhost ~]# suricata -s wannamine.rules -r wannamine.pcap
+```
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fzt6mbko3qj30to0a6myn.jpg)
+
+---
+
+### 2.2 查看fast.log日志
+```shell 
+[root@localhost ~]# tail -f fast.log
+```
+![](https://ws2.sinaimg.cn/large/006tNc79gy1fzt6moyzaaj32100o47mz.jpg)
+
+---
 
 ## TODO
 - [x] 整理已有15所pcap包对应msg
 - [x] 15所流量pcap->rules
 - [ ] 整理场景（classtype,tag）
-- [ ] 环境准备pcap包对应msg)
+- [ ] 环境准备pcap包对应msg
 
 
-## changelog
-    2019年01月29日10:55:32 初始化项
-    2019年01月29日19:33:30 整理已有15所pcap包对应msg
-    2019年01月30日11:50:22 15所流量pcap->rules
