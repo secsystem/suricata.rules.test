@@ -28,8 +28,6 @@ suricata安装教程 ➡️  - https://redmine.openinfosecfoundation.org/project
 ---
 
 ## TODO
-- [x] 整理已有15所pcap包对应msg
-- [x] 15所流量pcap->rules
 - [ ] 整理场景（classtype,tag）
 - [ ] 环境准备pcap包对应msg
 
